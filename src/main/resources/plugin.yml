@@ -1,0 +1,9 @@
+name: UniqCurrency
+version: ${project.version}
+main: nl.hoaxdev.facts.uniqcurrency.uniqcurrency.UniqCurrency
+authors: [ 22be, thoo0224 ]
+description: Dit is de Currency plugin van UniqKingdom
+
+commands:
+  muntstukken:
+    description: Dit is de Currency plugin van  Uniq Kingdom

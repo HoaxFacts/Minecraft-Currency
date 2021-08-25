@@ -1,0 +1,19 @@
+####################
+## Message Config ##
+####################
+
+## Command Messages
+"console-cannot-execute": "&4Alleen een speler kan deze commando uitvoeren!"
+"no-permissions": "&4Je hebt geen permissions om deze commando uit te voeren!"
+"invalid-arguments": "&4Je hebt niet genoeg argumenten meegegeven! Probeer &f/uc help &4om het help menu te zien!"
+
+## Coin Messages
+"received-coins": "&7Je bent &a1 uur &7online geweest! &eJe hebt &f{amount} &ecoins(s) ontvangen"
+"online-for-not-long-enough": "&4Je bent niet lang genoeg online om een coin te ontvangen!"
+
+## Admin Messages
+"config-reloaded": "&cConfiguratie &fsuccesvol &cGeherladen!"
+"added-coins-to-target": "&cJe hebt succesvol &f{amount} &caan &f{target} &cgegeven!"
+"removed-coins-from-target": "&cJe hebt succesvol &f{amount} &cweggehaald bij: &f{target}"
+"check-coins": "&a{target} &7heeft &a{amount} &7coins"
+
