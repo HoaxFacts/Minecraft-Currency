@@ -3,5 +3,5 @@ Dit is de 1e versie van UniqKingdom's Currency Plugin (Nog niet helemaal optimaa
 
 
 ## Creds
-[Thoo](https://github.com/thoo0224) | Voor het geven van Tips 
+[Thoo](https://github.com/thoo0224) | Voor het geven van Tips \n
 [SirSloth](https://github.com/SlothsAreLazyTho) | Voor het geven van Tips
