@@ -1,6 +1,5 @@
-# UniqKingdom-Currency
-Dit is een Plugin die is gemaakt voor "UniqKingdom"
-Deze Plugin is nog niet 100% af, maar er wordt aangewerkt!
+# Minecraft-Currency
+Dit is een plugin ontwikkeld voor een Kingdom server. Door online te zijn krijg je coins. Met die coins kan je dingen doen.
 
 
 ## Creds
