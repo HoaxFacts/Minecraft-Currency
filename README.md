@@ -13,5 +13,7 @@ Minecraft Currency Plugin
 This plugin is largely finished. However, you cannot do many things with the Coins you receive yet. I am not working on it anymore but you can always use the code and add your own things. This can be done easily by our Managers.
 
 ## Credits
-[Thoo0224](https://github.com/thoo0224)
-[SirSloth](https://github.com/SlothsAreLazyTho)
+[Thoo0224](https://github.com/thoo0224) | For helping met with some little details.
+
+
+[SirSloth](https://github.com/SlothsAreLazyTho) | Gave some usefull tips.
