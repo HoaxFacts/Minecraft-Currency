@@ -40,7 +40,6 @@ public class UserManager {
             return 0;
         }
 
-
         configuration.set(path, coins);
 
         try {
