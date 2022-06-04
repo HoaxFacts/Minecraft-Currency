@@ -1,8 +1,17 @@
-# Minecraft-Currency
-Dit is een plugin ontwikkeld voor een Kingdom server. Door online te zijn krijg je coins. Met die coins kan je dingen doen.
+<div align="center">
 
+# Minecraft Currency
 
-## Creds
-[Thoo](https://github.com/thoo0224) | Voor het geven van Tips
-\
-[SirSloth](https://github.com/SlothsAreLazyTho) | Voor het geven van Tips
+Minecraft Currency Plugin
+  
+![Minecraft](https://img.shields.io/static/v1?label=Minecraft&message=V1.12.2&color=green)
+![Java](https://img.shields.io/static/v1?label=Code%20Language&message=Java&color=yellow)
+
+</div>
+
+### Reminder
+This plugin is largely finished. However, you cannot do many things with the Coins you receive yet. I am not working on it anymore but you can always use the code and add your own things. This can be done easily by our Managers.
+
+## Credits
+[Thoo0224](https://github.com/thoo0224)
+[SirSloth](https://github.com/SlothsAreLazyTho)
